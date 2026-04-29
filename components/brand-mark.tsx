@@ -29,8 +29,8 @@ export function BrandMark({ className, short = false }: BrandMarkProps) {
         </span>
       ) : (
         <span className="text-foreground">
-          Black Liquidity{" "}
-          <span className="text-gradient-gold font-semibold">Matters</span>
+          Nigga{" "}
+          <span className="text-gradient-gold font-semibold">Trading</span>
         </span>
       )}
     </Link>
